@@ -1,6 +1,6 @@
 # [ISC License](https://benchx.io/license/third-party/ISC)
 
-Copyright (c) Distributed Webs Project, LLC. <legal@distributedwebs.org>
+Copyright (c) Distributed Webs Project, LLC. <legal@distributedwebs.org><br>
 Copyright (c) 2016 Seth Vincent
 
 Permission to use, copy, modify, and/or distribute this software for any purpose
